@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14553466-4C04-4DCD-9955-C6ADB38B096C}|Obligatorio\\Obligatorio.csproj|d:\\facultad ort\\programacion 2\\obligatorio 1\\obligatorio 1\\obligatorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14553466-4C04-4DCD-9955-C6ADB38B096C}|Obligatorio\\Obligatorio.csproj|solutionrelative:obligatorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|d:\\facultad ort\\programacion 2\\obligatorio 1\\obligatorio 1\\dominio\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|solutionrelative:dominio\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|d:\\facultad ort\\programacion 2\\obligatorio 1\\obligatorio 1\\dominio\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|solutionrelative:dominio\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|d:\\facultad ort\\programacion 2\\obligatorio 1\\obligatorio 1\\dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|solutionrelative:dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|d:\\facultad ort\\programacion 2\\obligatorio 1\\obligatorio 1\\dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|solutionrelative:dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|d:\\facultad ort\\programacion 2\\obligatorio 1\\obligatorio 1\\dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|solutionrelative:dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|d:\\facultad ort\\programacion 2\\obligatorio 1\\obligatorio 1\\dominio\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|solutionrelative:dominio\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|d:\\facultad ort\\programacion 2\\obligatorio 1\\obligatorio 1\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|d:\\facultad ort\\programacion 2\\obligatorio 1\\obligatorio 1\\dominio\\oferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|solutionrelative:dominio\\oferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|d:\\facultad ort\\programacion 2\\obligatorio 1\\obligatorio 1\\dominio\\subasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|solutionrelative:dominio\\subasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|d:\\facultad ort\\programacion 2\\obligatorio 1\\obligatorio 1\\dominio\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76ACEE7-6EA9-4816-BC18-470CF95BB1F7}|Dominio\\Dominio.csproj|solutionrelative:dominio\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Obligatorio\\Program.cs",
+              "RelativeDocumentMoniker": "Obligatorio\\Program.cs",
+              "ToolTip": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Obligatorio\\Program.cs",
+              "RelativeToolTip": "Obligatorio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:28:19.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Sistema.cs",
+              "RelativeDocumentMoniker": "Dominio\\Sistema.cs",
+              "ToolTip": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Sistema.cs",
+              "RelativeToolTip": "Dominio\\Sistema.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAUwB4BAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:23:21.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Usuario.cs",
+              "RelativeDocumentMoniker": "Dominio\\Usuario.cs",
+              "ToolTip": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Usuario.cs",
+              "RelativeToolTip": "Dominio\\Usuario.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:21:35.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Cliente.cs",
+              "RelativeDocumentMoniker": "Dominio\\Cliente.cs",
+              "ToolTip": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Cliente.cs",
+              "RelativeToolTip": "Dominio\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:21:52.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Administrador.cs",
+              "RelativeDocumentMoniker": "Dominio\\Administrador.cs",
+              "ToolTip": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Administrador.cs",
+              "RelativeToolTip": "Dominio\\Administrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:21:43.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publicacion.cs",
+              "DocumentMoniker": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Publicacion.cs",
+              "RelativeDocumentMoniker": "Dominio\\Publicacion.cs",
+              "ToolTip": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Publicacion.cs",
+              "RelativeToolTip": "Dominio\\Publicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:22:03.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Venta.cs",
+              "RelativeDocumentMoniker": "Dominio\\Venta.cs",
+              "ToolTip": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Venta.cs",
+              "RelativeToolTip": "Dominio\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:22:22.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Subasta.cs",
+              "DocumentMoniker": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Subasta.cs",
+              "RelativeDocumentMoniker": "Dominio\\Subasta.cs",
+              "ToolTip": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Subasta.cs",
+              "RelativeToolTip": "Dominio\\Subasta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:22:30.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Oferta.cs",
+              "DocumentMoniker": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Oferta.cs",
+              "RelativeDocumentMoniker": "Dominio\\Oferta.cs",
+              "ToolTip": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Oferta.cs",
+              "RelativeToolTip": "Dominio\\Oferta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:22:38.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Articulo.cs",
+              "ToolTip": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "Dominio\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:22:59.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Estado.cs",
+              "RelativeDocumentMoniker": "Dominio\\Estado.cs",
+              "ToolTip": "D:\\Facultad ORT\\Programacion 2\\Obligatorio 1\\Obligatorio 1\\Dominio\\Estado.cs",
+              "RelativeToolTip": "Dominio\\Estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:12:18.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
